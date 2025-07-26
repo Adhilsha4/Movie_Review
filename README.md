@@ -60,3 +60,14 @@ The model has been deployed as an interactive web app using **Streamlit**.
 - **Libraries**: Scikit-learn, NLTK, Pandas, NumPy  
 - **NLP Tools**: SnowballStemmer, Stopwords, Regex  
 - **Deployment**: Streamlit  
+
+---
+
+## 📁 Project Structure
+
+ ├── app.py # Streamlit application
+ ├── model.pkl # Trained Logistic Regression model
+ ├── vectorizer.pkl # TF-IDF Vectorizer
+ ├── sentiment_analysis.ipynb # Model development and training
+ ├── requirements.txt # Dependencies
+ └── README.md # Project overview
